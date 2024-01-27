@@ -1,0 +1,20 @@
+ros-humble-sync-parameter-server (1.0.1-2jammy) jammy; urgency=high
+
+  * Fix buildtool_depend
+  * Fix secret name
+  * Add release CI
+  * Contributors: Tatsuro Sakaguchi
+
+ -- Tatsuro Sakaguchi <tatsuro.sakaguchi@g.softbank.co.jp>  Sat, 27 Jan 2024 00:00:00 -0000
+
+ros-humble-sync-parameter-server (1.0.0-2jammy) jammy; urgency=high
+
+  * Add scale and offset to integer
+  * Add document
+  * Add sync parameter server node
+  * Initial commit
+  * Contributors: Tatsuro Sakaguchi
+
+ -- Tatsuro Sakaguchi <tatsuro.sakaguchi@g.softbank.co.jp>  Fri, 12 Jan 2024 00:00:00 -0000
+
+
