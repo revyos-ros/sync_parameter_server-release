@@ -1,3 +1,4 @@
+release_repo_url: https://github.com/ros2-gbp/sync_parameter_server-release.git
 tracks:
   humble:
     actions:
